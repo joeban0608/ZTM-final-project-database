@@ -13,6 +13,6 @@
   2. npm install
   3. npm start
   You must add your own API key in the src/App.js file to connect to Clarifai.　（必須要有自己的Clarifai API)  
-  api 申請詳見我的blog: [點這裡](https://www.notion.so/Clarifai-API-Updates-Models-and-Troubleshooting-a62619f26fc74ab188d7a74b1ea23226 "title")  
+  api 申請詳見我的blog： [點這裡](https://www.notion.so/Clarifai-API-Updates-Models-and-Troubleshooting-a62619f26fc74ab188d7a74b1ea23226 "title")  
 ---
 此章節的完整教學詳見我的blog：[點這裡](https://www.notion.so/ZTM-FINAL-PROJECT_SmartBrain-Back-End-Database-35394d591edc4ba3962cbe3a7560bd03 "title")
