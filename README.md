@@ -1,5 +1,6 @@
 # ZTM-final-project-database
 這是人臉辨識的專案與database連結篇，參考第27節 ZTM 課程: Web developer 2021 [click here](https://www.udemy.com/share/101WcU3@5EAiAmGEE0x4-XTGI6KMPVG8yyKNykO6LWlBiBEiFhtCOxMG1dCxEOzqL1WmJH_nDQ==/ "title") 
+
 ---
 這有兩個資料夾，一個是server，一個是前端的資料夾，內容已經完成前後端的連結，你可以載下來後，分兩個terminal來做測試。  
 1. clone 此 repo  
